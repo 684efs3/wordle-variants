@@ -5,6 +5,7 @@ This website contains various links for various project I am currently working o
 * [Maths](maths)
 * [Movies](movies)
 * [Music](music)
+* [Geography & Flags](geography)
 
 {% comment %}
 * []()
